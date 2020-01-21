@@ -1,2 +1,3 @@
-x = (2 + 3) * 10 - 3
-print(x)
+import math
+
+print(math.floor(2.9))
